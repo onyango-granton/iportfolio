@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using iPortfolio! If you have any questions or need further assistance, please feel free to contact us.
+Thank you for using iPortfolio! If you have any questions or need further assistance, please feel free to contact me.
