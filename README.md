@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the iPortfolio project! This project is designed to showcase an individual's portfolio on a personal website. You can see a live demo [here](https://iportfoliogranton.000webhostapp.com/).
+Welcome to the iPortfolio project! This project is designed to showcase an individual's portfolio on a personal website. You can see a live demo [here](iportfoliogranton.000webhostapp.com)
 
 ## Table of Contents
 
